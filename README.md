@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm a versatile professional with a diverse background in teaching, machine operation, and hydraulic fitting. Now, I'm a self-taught web developer passionate about creating user-centric web solutions.
+I'm Pat , a self-taught web developer passionate about creating mobile-responsive, user-friendly websites that help clients and businesses achieve their goals.
 
 ## 🚀 My Journey
 - **Teaching**:  <img src="https://img.shields.io/badge/Teaching-FF6347?style=flat&logo=google-classroom&logoColor=white" alt="Teaching" />
@@ -69,4 +69,4 @@ I'm open to work opportunities, preferably remote, but I'm flexible as long as i
 
 ---
 
-Feel free to connect with me on LinkedIn <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /> or check out my portfolio!
+Feel free to connect with me on LinkedIn <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /> or check out my [Portfolio](https://portfolio-psmacabulos.vercel.app)
